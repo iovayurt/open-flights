@@ -37,4 +37,4 @@ airlines = Airline.create([
       score: 1,
       airline: airlines.first
     }
-  ])
+                          ])
